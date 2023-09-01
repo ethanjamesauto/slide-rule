@@ -1,0 +1,6 @@
+[submodule "canvas2svg"]
+	path = canvas2svg
+	url = https://github.com/ethanjamesauto/canvas2svg
+[submodule "Sliderule-Simulator-or-Emulator"]
+	path = Sliderule-Simulator-or-Emulator
+	url = https://github.com/ethanjamesauto/Sliderule-Simulator-or-Emulator
